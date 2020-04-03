@@ -391,6 +391,7 @@ footer .footer_row .footer_col .social_icons a {
   background-color: #313454;
 }
 .authors_sign .authors_sign_row {
+  width: 100%;
   padding: 30px;
 }
 .authors_sign .authors_sign_row .authors_sign_col p {
